@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.cloud.sentinel.transport.dashboard",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.sentinel.transport.dashboard."
+  }
+] }
