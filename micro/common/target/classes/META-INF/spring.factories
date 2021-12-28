@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.erenwu.common.handler.GlobalExceptionHandler,\
+  com.erenwu.common.utils.SpringUtils,\
+  com.erenwu.common.auth.aspect.PreAuthorizeAspect

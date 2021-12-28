@@ -1,0 +1,7 @@
+com\erenwu\redis\RedisKey$RedisKeyBuilder.class
+com\erenwu\redis\RedisService.class
+com\erenwu\redis\RedisFastJsonSerializer.class
+com\erenwu\redis\RedisServiceAutoConfigure.class
+com\erenwu\redis\RedisService$Hash.class
+com\erenwu\redis\RedisAutoConfigure.class
+com\erenwu\redis\RedisKey.class
